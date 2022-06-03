@@ -6,6 +6,7 @@
 3. I want to learn JavaScript in RSSchool!
 4. Skills:
   * Basics JS;
+  * Figma;
   * Photoshop;
   * Git.
 5.  Code example
