@@ -10,9 +10,11 @@
   * Photoshop;
   * Git.
 5.  Code example
+
 function multiply(a, b){
  return a * b
 }
+
 6.  Nothing yet...
 7.  I'm just learning JS in RSSchool
 8. B1(I have some speaking practice)
